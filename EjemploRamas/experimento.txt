@@ -1,4 +1,8 @@
 Este archivo servirá como bitácora de mi experimento
 
 
-
+|Muestra|Tensión [V]|Corriente [A]|
+-----------------------------------
+|       |           |             |
+|       |           |             |
+|       |           |             |	
